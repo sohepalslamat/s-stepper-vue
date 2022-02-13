@@ -71,6 +71,20 @@ steps: [
 ```
 title is required.
 
+## Contribution
+
+### Project setup
+
+```bash
+npm install
+```
+
+### Compiles and hot-reloads for development
+
+```bash
+npm run serve
+```
+
 ## License
 
 This project is licensed under [MIT License](http://en.wikipedia.org/wiki/MIT_License)

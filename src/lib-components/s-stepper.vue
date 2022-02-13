@@ -73,7 +73,10 @@ export default /*#__PURE__*/Vue.extend({
   },
   watch: {
     step(val) {
-      this.$emit('change', val)
+      let newVal:number = val 
+      if(val <= 1) newVal = 1 
+      else if ( val >= this.steps.length) newVal = this.steps.length
+      this.$emit('change', newVal)
     }
   }
 });
