@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "Dynamic steppers component vue2",
   "author": {
-    "name": "Sohep Alselamat",
+    "name": "Sohep Alslamat",
     "email": "sohep.alslamat91@gmail.com",
     "company": "Vuango"
   },
+  "keywords": ["stepper", "vue", "vuejs", "Vuango"],
 
   "main": "dist/s-stepper.ssr.js",
   "browser": "dist/s-stepper.esm.js",

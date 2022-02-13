@@ -3,7 +3,7 @@
 [![vue 2](https://img.shields.io/badge/vue-2-42b983.svg?style=flat-square)](https://vuejs.org)
 [![npm](https://img.shields.io/npm/v/s-stepper-vue.svg?style=flat-square)](https://www.npmjs.com/package/s-stepper-vue)
 [![npm](https://img.shields.io/npm/dt/s-stepper-vue.svg?style=flat-square)](https://www.npmjs.com/package/s-stepper-vue)
-[![Codacy grade](https://img.shields.io/codacy/grade/3d15a7c11bfe47c69a2aed93cc67cc29.svg?style=flat-square)](https://www.codacy.com/app/LouisMazel/s-stepper-vue)
+<!-- [![Codacy grade](https://img.shields.io/codacy/grade/3d15a7c11bfe47c69a2aed93cc67cc29.svg?style=flat-square)](https://www.codacy.com/app/LouisMazel/s-stepper-vue) -->
 
 ## Installation
 
