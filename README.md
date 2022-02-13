@@ -1,12 +1,13 @@
 # s-stepper-vue
 
+[![license](https://img.shields.io/github/license/LouisMazel/vue-phone-number-input.svg?style=flat-square)](https://github.com/sohepalslamat/s-stepper-vue/blob/main/LICENSE)
 [![vue 2](https://img.shields.io/badge/vue-2-42b983.svg?style=flat-square)](https://vuejs.org)
 [![npm](https://img.shields.io/npm/v/s-stepper-vue.svg?style=flat-square)](https://www.npmjs.com/package/s-stepper-vue)
 [![npm](https://img.shields.io/npm/dt/s-stepper-vue.svg?style=flat-square)](https://www.npmjs.com/package/s-stepper-vue)
 <!-- [![Codacy grade](https://img.shields.io/codacy/grade/3d15a7c11bfe47c69a2aed93cc67cc29.svg?style=flat-square)](https://www.codacy.com/app/LouisMazel/s-stepper-vue) -->
 
 > A beautiful stepper made with VueJS
-![s-stepper-vue](./public/s-stepper-vue.gif)
+![s-stepper-vue](https://raw.githubusercontent.com/sohepalslamat/s-stepper-vue/main/public/s-stepper-vue.gif)
 
 ## Installation
 
@@ -69,6 +70,10 @@ steps: [
 ]
 ```
 title is required.
+
+## License
+
+This project is licensed under [MIT License](http://en.wikipedia.org/wiki/MIT_License)
 
 --------------------------------
 

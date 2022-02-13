@@ -1,6 +1,6 @@
 {
   "name": "s-stepper-vue",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Dynamic steppers component vue2",
   "author": {
     "name": "Sohep Alslamat",
@@ -63,5 +63,10 @@
   },
   "engines": {
     "node": ">=12"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohepalslamat/s-stepper-vue"
   }
 }
